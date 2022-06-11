@@ -23,7 +23,7 @@ public class TestEmpleado {
 	public static void main(String[] args) {
 		
 		/* Crear el Gestor de persistencia */
-		System.out.println("  Inicio main 1" ) ;
+		System.out.println("  Linea cambiada desde github remoto" ) ;
 
 		 
 		emf =  Persistence.createEntityManagerFactory("GestionPersonal");
